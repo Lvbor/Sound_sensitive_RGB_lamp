@@ -1,10 +1,10 @@
 // ATTACHED LIBRARIES
 
 #include <FastLED.h>
-#include "R_Variables.h"
-#include "R_Animations.h"
-#include "R_Buttons.h"
-#include "R_Temp.h"
+#include "R_Variables.hpp"
+#include "R_Animations.hpp"
+#include "R_Buttons.hpp"
+#include "R_Temp.hpp"
 
 
 
