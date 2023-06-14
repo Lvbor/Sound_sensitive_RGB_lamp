@@ -1,4 +1,4 @@
-# Sound_sensitive_RGB_lamp# Sound-Reactive RGB Lamp
+# Sound-Reactive RGB Lamp
 This repository contains the source code and documentation for building a sound-reactive RGB lamp using the ESP32 Wemos D1 R32 board, WS2812B RGB LED strip, and DFRobot DFR0034 microphone module.
 
 ## Introduction
