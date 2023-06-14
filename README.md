@@ -9,7 +9,7 @@ A sound-sensitive RGB lamp is an electronic device that reacts to sound by chang
 ### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ### Tools and others
-![FastLED](https://img.shields.io/badge/fastled-870099?style=for-the-badge) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge)  ![Git](https://img.shields.io/badge/Git-FF0000?style=for-the-badge) ![PlatformIO](https://img.shields.io/badge/PlatformIO-ebab34?style=for-the-badge)
+![FastLED](https://img.shields.io/badge/fastled-870099?style=for-the-badge) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge)  ![Git](https://img.shields.io/badge/git-%23FF0000.svg?style=for-the-badge&logo=git&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-ebab34?style=for-the-badge)
 ### Boards
 ![ESP32](https://img.shields.io/badge/esp32-000000?style=for-the-badge)
 ### OS
