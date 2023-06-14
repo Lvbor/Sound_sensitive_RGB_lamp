@@ -50,7 +50,7 @@ To install and run this project on your ESP32 board, follow these steps:
 
 ## Gallery
 
-[Click here to be taken to the gallery](https://github.com/Lvbor/Sound_sensitive_RGB_lamp/wiki)
+[Click here](https://github.com/Lvbor/Sound_sensitive_RGB_lamp/wiki)
 
 ## License
 This project is licensed under the MIT License. Feel free to modify and distribute the code as per the terms of the license.
